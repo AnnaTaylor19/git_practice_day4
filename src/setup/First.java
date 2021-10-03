@@ -6,5 +6,8 @@ public class First {
 
         // i want to create history
         //text doesnt matter
+
+        // third commit
+        //more lines
     }
 }
